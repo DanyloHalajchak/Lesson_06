@@ -6,9 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		int mass[] = {23,123,123,21,3};
-//		for (int i = 0; i < mass.length; i++) {
-//			System.out.println(mass[i]);
-//		}
+		for (int i = 0; i < mass.length; i++) {
+			System.out.println(mass[i]);
+		}
 		
 		for(int iter : mass){
 			System.out.println(iter);
